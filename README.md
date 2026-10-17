@@ -1,4 +1,4 @@
-<h1 align="center">Hùng (Huy) Lê <sub><code>~/tyrus</code></sub></h1>
+<h1 align="center">Hùng (Huy) Lê <sub><code>~/tyrusrc</code></sub></h1>
 
 <p align="center">
   <b>Penetration Tester · Red Team · Full-stack builder</b><br>
@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="860" alt="tyrus@redteam:~$ whoami → pentester / red teamer who builds the tools for breaking things. cat focus.txt → offense: web · api · cloud · mobile · AI/LLM services; build: agentic pentest harnesses, scanners, RE platforms, LLM-assisted audits">
+  <img src="assets/terminal.svg" width="860" alt="tyrusrc@redteam:~$ whoami → pentester / red teamer who builds the tools for breaking things. cat focus.txt → offense: web · api · cloud · mobile · AI/LLM services; build: agentic pentest harnesses, scanners, RE platforms, LLM-assisted audits">
 </p>
 
 ```console
-tyrus@redteam:~$ ls ./tools
+tyrusrc@redteam:~$ ls ./tools
 ```
 
 | tool | what it does | stack |
@@ -29,7 +29,7 @@ tyrus@redteam:~$ ls ./tools
 | [**burp-expedition**](https://github.com/TyrusRC/burp-expedition) | Burp Suite extension | Kotlin |
 
 ```console
-tyrus@redteam:~$ ls ./learning
+tyrusrc@redteam:~$ ls ./learning
 ```
 
 [reverse-engineering-101](https://github.com/TyrusRC/reverse-engineering-101) · [binary-exploit-101](https://github.com/TyrusRC/binary-exploit-101) · [tricks-in-web-exploiting](https://github.com/TyrusRC/tricks-in-web-exploiting) · [learnfromscratch](https://tyrusrc.github.io/learnfromscratch)
