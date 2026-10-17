@@ -10,15 +10,11 @@
   <a href="https://www.linkedin.com/in/hunglehuy03"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-hunglehuy03-39ff88?style=flat-square&labelColor=0b0f0c"></a>
 </p>
 
+<p align="center">
+  <img src="assets/terminal.svg" width="860" alt="tyrus@redteam:~$ whoami → pentester / red teamer who builds the tools for breaking things. cat focus.txt → offense: web · api · cloud · mobile · AI/LLM services; build: agentic pentest harnesses, scanners, RE platforms, LLM-assisted audits">
+</p>
+
 ```console
-tyrus@redteam:~$ whoami
-pentester / red teamer who builds the tools for breaking things
-
-tyrus@redteam:~$ cat focus.txt
-offense  →  web · api · cloud · mobile · AI/LLM services
-build    →  agentic pentest harnesses, scanners, RE platforms, LLM-assisted audits
-past     →  SOC analyst · malware/ML research @ UIT · project manager · founder @ 2vane
-
 tyrus@redteam:~$ ls ./tools
 ```
 
