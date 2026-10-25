@@ -23,10 +23,12 @@ tyrusrc@redteam:~$ ls ./tools
 | [**praetor**](https://github.com/TyrusRC/praetor) | Agentic pentest & red-team harness via Burp Suite MCP | Python · MCP · Burp |
 | [**chimera**](https://github.com/TyrusRC/chimera) | Reverse engineering platform for desktop & mobile binaries — many backends, one beast | Python · Ghidra · radare2 |
 | [**mantis**](https://github.com/TyrusRC/mantis) | Hybrid SAST + LLM toolkit for local code-security audits | Python · LLM · MCP |
-| [**assay**](https://github.com/TyrusRC/assay) | CLI web-application security scanner built on nuclei | Go · nuclei |
+| [**vigil**](https://github.com/TyrusRC/vigil) | Context-aware web vulnerability scanner — 113 native detectors, inline TUI, ML adjudication | Go · lipgloss |
+| [**haruspex**](https://github.com/TyrusRC/haruspex) | Calibrated ML decision layer for security operations — triage, severity, CVE routing | Python · DeBERTa · LoRA |
 | [**limes**](https://github.com/TyrusRC/limes) | Open-source attack surface management for enterprise | Python |
-| [**centurion**](https://github.com/TyrusRC/centurion) | Mobile security toolkit pipeline | Python |
-| [**burp-expedition**](https://github.com/TyrusRC/burp-expedition) | Burp Suite extension | Kotlin |
+| [**groma**](https://github.com/TyrusRC/groma) | Network scanner — port discovery + service-aware CVE checks | Go |
+| [**centurion**](https://github.com/TyrusRC/centurion) | Mobile security toolkit pipeline — MASVS, Frida, static + dynamic | Python |
+| [**burp-expedition**](https://github.com/TyrusRC/burp-expedition) | Burp Suite extension for non-HTTP protocol testing — TCP/UDP/gRPC | Kotlin · Netty |
 
 ```console
 tyrusrc@redteam:~$ ls ./learning
